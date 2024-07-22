@@ -1,0 +1,925 @@
+
+Analisando a série temporal: Varzea
+
+Decomposição da Série Temporal: Varzea
+![Decomposição da Série Temporal: Varzea](/content/decomposicao_Varzea.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -4612864963416235.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4546223782586534, '5%': -2.8722253212300277, '10%': -2.5724638500216264}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.214591037535829
+Valor p: 2.1898868240784485e-10
+Valores críticos: {'1%': -3.455952927706342, '5%': -2.8728086526320302, '10%': -2.572774990685656}
+
+Função de Autocorrelação (ACF) - Varzea
+![Função de Autocorrelação (ACF) - Varzea](/content/acf_Varzea.png)
+
+Função de Autocorrelação Parcial (PACF) - Varzea
+![Função de Autocorrelação Parcial (PACF) - Varzea](/content/pacf_Varzea.png)
+
+Melhor modelo para Varzea - AIC: 3714.1525337543517, Ordem: (1, 1, 0), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Varzea
+![Resíduos do Modelo - Varzea](/content/residuos_Varzea.png)
+
+Teste de Normalidade dos Resíduos - Varzea:
+Estatística de teste: 0.26182568073272705
+Valor p: 3.309223484570484e-32
+
+Função de Autocorrelação dos Resíduos - Varzea
+![Função de Autocorrelação dos Resíduos - Varzea](/content/acf_residuos_Varzea.png)
+
+Previsões de Curto Prazo - Varzea
+![Previsões de Curto Prazo - Varzea](/content/previsao_Varzea.png)
+
+
+Analisando a série temporal: Passo Fundo
+
+Decomposição da Série Temporal: Passo Fundo
+![Decomposição da Série Temporal: Passo Fundo](/content/decomposicao_Passo Fundo.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1922306159848602.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.155651705540141
+Valor p: 3.0597017972768346e-10
+Valores críticos: {'1%': -3.4556556713934934, '5%': -2.872678352489859, '10%': -2.57270548832225}
+
+Função de Autocorrelação (ACF) - Passo Fundo
+![Função de Autocorrelação (ACF) - Passo Fundo](/content/acf_Passo Fundo.png)
+
+Função de Autocorrelação Parcial (PACF) - Passo Fundo
+![Função de Autocorrelação Parcial (PACF) - Passo Fundo](/content/pacf_Passo Fundo.png)
+
+Melhor modelo para Passo Fundo - AIC: 4103.79594749875, Ordem: (1, 1, 1), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Passo Fundo
+![Resíduos do Modelo - Passo Fundo](/content/residuos_Passo Fundo.png)
+
+Teste de Normalidade dos Resíduos - Passo Fundo:
+Estatística de teste: 0.2927868962287903
+Valor p: 1.0804408213294852e-31
+
+Função de Autocorrelação dos Resíduos - Passo Fundo
+![Função de Autocorrelação dos Resíduos - Passo Fundo](/content/acf_residuos_Passo Fundo.png)
+
+Previsões de Curto Prazo - Passo Fundo
+![Previsões de Curto Prazo - Passo Fundo](/content/previsao_Passo Fundo.png)
+
+
+Analisando a série temporal: Turvo Santa Rosa Comandai 
+
+Decomposição da Série Temporal: Turvo Santa Rosa Comandai 
+![Decomposição da Série Temporal: Turvo Santa Rosa Comandai ](/content/decomposicao_Turvo Santa Rosa Comandai .png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -5717577093636781.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4547128138328875, '5%': -2.8722649771800155, '10%': -2.5724850011573914}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.413775635032529
+Valor p: 2.0699200140969734e-13
+Valores críticos: {'1%': -3.455952927706342, '5%': -2.8728086526320302, '10%': -2.572774990685656}
+
+Função de Autocorrelação (ACF) - Turvo Santa Rosa Comandai 
+![Função de Autocorrelação (ACF) - Turvo Santa Rosa Comandai ](/content/acf_Turvo Santa Rosa Comandai .png)
+
+Função de Autocorrelação Parcial (PACF) - Turvo Santa Rosa Comandai 
+![Função de Autocorrelação Parcial (PACF) - Turvo Santa Rosa Comandai ](/content/pacf_Turvo Santa Rosa Comandai .png)
+
+Melhor modelo para Turvo Santa Rosa Comandai  - AIC: 3560.086876535178, Ordem: (2, 1, 2), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Turvo Santa Rosa Comandai 
+![Resíduos do Modelo - Turvo Santa Rosa Comandai ](/content/residuos_Turvo Santa Rosa Comandai .png)
+
+Teste de Normalidade dos Resíduos - Turvo Santa Rosa Comandai :
+Estatística de teste: 0.18371164798736572
+Valor p: 1.9783474415423094e-33
+
+Função de Autocorrelação dos Resíduos - Turvo Santa Rosa Comandai 
+![Função de Autocorrelação dos Resíduos - Turvo Santa Rosa Comandai ](/content/acf_residuos_Turvo Santa Rosa Comandai .png)
+
+Previsões de Curto Prazo - Turvo Santa Rosa Comandai 
+![Previsões de Curto Prazo - Turvo Santa Rosa Comandai ](/content/previsao_Turvo Santa Rosa Comandai .png)
+
+
+Analisando a série temporal: Apuae Inhandava
+
+Decomposição da Série Temporal: Apuae Inhandava
+![Decomposição da Série Temporal: Apuae Inhandava](/content/decomposicao_Apuae Inhandava.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1605505647949830.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4544435065994437, '5%': -2.8721468827772774, '10%': -2.572422013959188}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.875053163683179
+Valor p: 4.869141021120406e-12
+Valores críticos: {'1%': -3.455952927706342, '5%': -2.8728086526320302, '10%': -2.572774990685656}
+
+Função de Autocorrelação (ACF) - Apuae Inhandava
+![Função de Autocorrelação (ACF) - Apuae Inhandava](/content/acf_Apuae Inhandava.png)
+
+Função de Autocorrelação Parcial (PACF) - Apuae Inhandava
+![Função de Autocorrelação Parcial (PACF) - Apuae Inhandava](/content/pacf_Apuae Inhandava.png)
+
+Melhor modelo para Apuae Inhandava - AIC: 3742.5493934235064, Ordem: (2, 1, 2), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Apuae Inhandava
+![Resíduos do Modelo - Apuae Inhandava](/content/residuos_Apuae Inhandava.png)
+
+Teste de Normalidade dos Resíduos - Apuae Inhandava:
+Estatística de teste: 0.34795689582824707
+Valor p: 9.903113906525034e-31
+
+Função de Autocorrelação dos Resíduos - Apuae Inhandava
+![Função de Autocorrelação dos Resíduos - Apuae Inhandava](/content/acf_residuos_Apuae Inhandava.png)
+
+Previsões de Curto Prazo - Apuae Inhandava
+![Previsões de Curto Prazo - Apuae Inhandava](/content/previsao_Apuae Inhandava.png)
+
+
+Analisando a série temporal: Pelotas
+
+Decomposição da Série Temporal: Pelotas
+![Decomposição da Série Temporal: Pelotas](/content/decomposicao_Pelotas.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -2437005403236190.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.4547128138328875, '5%': -2.8722649771800155, '10%': -2.5724850011573914}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -5.991547046909203
+Valor p: 1.7408304389888778e-07
+Valores críticos: {'1%': -3.4554613060274972, '5%': -2.8725931472675046, '10%': -2.5726600403359887}
+
+Função de Autocorrelação (ACF) - Pelotas
+![Função de Autocorrelação (ACF) - Pelotas](/content/acf_Pelotas.png)
+
+Função de Autocorrelação Parcial (PACF) - Pelotas
+![Função de Autocorrelação Parcial (PACF) - Pelotas](/content/pacf_Pelotas.png)
+
+Melhor modelo para Pelotas - AIC: 4248.489686607019, Ordem: (1, 1, 2), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Pelotas
+![Resíduos do Modelo - Pelotas](/content/residuos_Pelotas.png)
+
+Teste de Normalidade dos Resíduos - Pelotas:
+Estatística de teste: 0.7672020196914673
+Valor p: 6.992469203110157e-20
+
+Função de Autocorrelação dos Resíduos - Pelotas
+![Função de Autocorrelação dos Resíduos - Pelotas](/content/acf_residuos_Pelotas.png)
+
+Previsões de Curto Prazo - Pelotas
+![Previsões de Curto Prazo - Pelotas](/content/previsao_Pelotas.png)
+
+
+Analisando a série temporal: Ijui
+
+Decomposição da Série Temporal: Ijui
+![Decomposição da Série Temporal: Ijui](/content/decomposicao_Ijui.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1388692645631395.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.4544435065994437, '5%': -2.8721468827772774, '10%': -2.572422013959188}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -6.884032841362186
+Valor p: 1.4095140747048114e-09
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Ijui
+![Função de Autocorrelação (ACF) - Ijui](/content/acf_Ijui.png)
+
+Função de Autocorrelação Parcial (PACF) - Ijui
+![Função de Autocorrelação Parcial (PACF) - Ijui](/content/pacf_Ijui.png)
+
+Melhor modelo para Ijui - AIC: 5240.171990134269, Ordem: (1, 1, 0), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Ijui
+![Resíduos do Modelo - Ijui](/content/residuos_Ijui.png)
+
+Teste de Normalidade dos Resíduos - Ijui:
+Estatística de teste: 0.5063988566398621
+Valor p: 1.4968955380939467e-27
+
+Função de Autocorrelação dos Resíduos - Ijui
+![Função de Autocorrelação dos Resíduos - Ijui](/content/acf_residuos_Ijui.png)
+
+Previsões de Curto Prazo - Ijui
+![Previsões de Curto Prazo - Ijui](/content/previsao_Ijui.png)
+
+
+Analisando a série temporal: Butui Icamaqua Piratinim
+
+Decomposição da Série Temporal: Butui Icamaqua Piratinim
+![Decomposição da Série Temporal: Butui Icamaqua Piratinim](/content/decomposicao_Butui Icamaqua Piratinim.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -757355528205780.2
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.114392156224624
+Valor p: 3.8645648399655463e-10
+Valores críticos: {'1%': -3.4558530692911504, '5%': -2.872764881778665, '10%': -2.572751643088207}
+
+Função de Autocorrelação (ACF) - Butui Icamaqua Piratinim
+![Função de Autocorrelação (ACF) - Butui Icamaqua Piratinim](/content/acf_Butui Icamaqua Piratinim.png)
+
+Função de Autocorrelação Parcial (PACF) - Butui Icamaqua Piratinim
+![Função de Autocorrelação Parcial (PACF) - Butui Icamaqua Piratinim](/content/pacf_Butui Icamaqua Piratinim.png)
+
+Melhor modelo para Butui Icamaqua Piratinim - AIC: 4415.312856135986, Ordem: (1, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Butui Icamaqua Piratinim
+![Resíduos do Modelo - Butui Icamaqua Piratinim](/content/residuos_Butui Icamaqua Piratinim.png)
+
+Teste de Normalidade dos Resíduos - Butui Icamaqua Piratinim:
+Estatística de teste: 0.28406965732574463
+Valor p: 7.711112461521265e-32
+
+Função de Autocorrelação dos Resíduos - Butui Icamaqua Piratinim
+![Função de Autocorrelação dos Resíduos - Butui Icamaqua Piratinim](/content/acf_residuos_Butui Icamaqua Piratinim.png)
+
+Previsões de Curto Prazo - Butui Icamaqua Piratinim
+![Previsões de Curto Prazo - Butui Icamaqua Piratinim](/content/previsao_Butui Icamaqua Piratinim.png)
+
+
+Analisando a série temporal: Alto Jacui
+
+Decomposição da Série Temporal: Alto Jacui
+![Decomposição da Série Temporal: Alto Jacui](/content/decomposicao_Alto Jacui.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -2380771573814585.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.454355055831705, '5%': -2.8721080938842976, '10%': -2.572401325619835}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.53428241706074
+Valor p: 3.51180230195984e-11
+Valores críticos: {'1%': -3.4556556713934934, '5%': -2.872678352489859, '10%': -2.57270548832225}
+
+Função de Autocorrelação (ACF) - Alto Jacui
+![Função de Autocorrelação (ACF) - Alto Jacui](/content/acf_Alto Jacui.png)
+
+Função de Autocorrelação Parcial (PACF) - Alto Jacui
+![Função de Autocorrelação Parcial (PACF) - Alto Jacui](/content/pacf_Alto Jacui.png)
+
+Melhor modelo para Alto Jacui - AIC: 4492.816630484626, Ordem: (0, 1, 0), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Alto Jacui
+![Resíduos do Modelo - Alto Jacui](/content/residuos_Alto Jacui.png)
+
+Teste de Normalidade dos Resíduos - Alto Jacui:
+Estatística de teste: 0.27346205711364746
+Valor p: 5.138000584103784e-32
+
+Função de Autocorrelação dos Resíduos - Alto Jacui
+![Função de Autocorrelação dos Resíduos - Alto Jacui](/content/acf_residuos_Alto Jacui.png)
+
+Previsões de Curto Prazo - Alto Jacui
+![Previsões de Curto Prazo - Alto Jacui](/content/previsao_Alto Jacui.png)
+
+
+Analisando a série temporal: Taquari Antas 
+
+Decomposição da Série Temporal: Taquari Antas 
+![Decomposição da Série Temporal: Taquari Antas ](/content/decomposicao_Taquari Antas .png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1546562388326046.8
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -6.682538930309819
+Valor p: 4.305954654692771e-09
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Taquari Antas 
+![Função de Autocorrelação (ACF) - Taquari Antas ](/content/acf_Taquari Antas .png)
+
+Função de Autocorrelação Parcial (PACF) - Taquari Antas 
+![Função de Autocorrelação Parcial (PACF) - Taquari Antas ](/content/pacf_Taquari Antas .png)
+
+Melhor modelo para Taquari Antas  - AIC: 4249.978153263605, Ordem: (1, 1, 2), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Taquari Antas 
+![Resíduos do Modelo - Taquari Antas ](/content/residuos_Taquari Antas .png)
+
+Teste de Normalidade dos Resíduos - Taquari Antas :
+Estatística de teste: 0.37646520137786865
+Valor p: 3.301509608521744e-30
+
+Função de Autocorrelação dos Resíduos - Taquari Antas 
+![Função de Autocorrelação dos Resíduos - Taquari Antas ](/content/acf_residuos_Taquari Antas .png)
+
+Previsões de Curto Prazo - Taquari Antas 
+![Previsões de Curto Prazo - Taquari Antas ](/content/previsao_Taquari Antas .png)
+
+
+Analisando a série temporal: Mampituba
+
+Decomposição da Série Temporal: Mampituba
+![Decomposição da Série Temporal: Mampituba](/content/decomposicao_Mampituba.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -701906849454898.4
+Valor p: 0.0
+Valores críticos: {'1%': -3.45453261164607, '5%': -2.8721859575020017, '10%': -2.572442854861866}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.652185349241726
+Valor p: 1.777231874122994e-11
+Valores críticos: {'1%': -3.4556556713934934, '5%': -2.872678352489859, '10%': -2.57270548832225}
+
+Função de Autocorrelação (ACF) - Mampituba
+![Função de Autocorrelação (ACF) - Mampituba](/content/acf_Mampituba.png)
+
+Função de Autocorrelação Parcial (PACF) - Mampituba
+![Função de Autocorrelação Parcial (PACF) - Mampituba](/content/pacf_Mampituba.png)
+
+Melhor modelo para Mampituba - AIC: 3450.968741097535, Ordem: (0, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Mampituba
+![Resíduos do Modelo - Mampituba](/content/residuos_Mampituba.png)
+
+Teste de Normalidade dos Resíduos - Mampituba:
+Estatística de teste: 0.234713613986969
+Valor p: 1.2127313669940482e-32
+
+Função de Autocorrelação dos Resíduos - Mampituba
+![Função de Autocorrelação dos Resíduos - Mampituba](/content/acf_residuos_Mampituba.png)
+
+Previsões de Curto Prazo - Mampituba
+![Previsões de Curto Prazo - Mampituba](/content/previsao_Mampituba.png)
+
+
+Analisando a série temporal: Cai 
+
+Decomposição da Série Temporal: Cai 
+![Decomposição da Série Temporal: Cai ](/content/decomposicao_Cai .png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -5907997816936357.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -6.543649244002989
+Valor p: 9.213605259377988e-09
+Valores críticos: {'1%': -3.4557539868570775, '5%': -2.8727214497041422, '10%': -2.572728476331361}
+
+Função de Autocorrelação (ACF) - Cai 
+![Função de Autocorrelação (ACF) - Cai ](/content/acf_Cai .png)
+
+Função de Autocorrelação Parcial (PACF) - Cai 
+![Função de Autocorrelação Parcial (PACF) - Cai ](/content/pacf_Cai .png)
+
+Melhor modelo para Cai  - AIC: 14.0, Ordem: (2, 0, 2), Ordem Sazonal: (1, 0, 1, 12)
+
+Resíduos do Modelo - Cai 
+![Resíduos do Modelo - Cai ](/content/residuos_Cai .png)
+
+Teste de Normalidade dos Resíduos - Cai :
+Estatística de teste: 0.985075831413269
+Valor p: 0.004427805542945862
+
+Função de Autocorrelação dos Resíduos - Cai 
+![Função de Autocorrelação dos Resíduos - Cai ](/content/acf_residuos_Cai .png)
+
+Previsões de Curto Prazo - Cai 
+![Previsões de Curto Prazo - Cai ](/content/previsao_Cai .png)
+
+
+Analisando a série temporal: Tramandai
+
+Decomposição da Série Temporal: Tramandai
+![Decomposição da Série Temporal: Tramandai](/content/decomposicao_Tramandai.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1779375252706874.2
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.112608409932596
+Valor p: 1.214462974682469e-12
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Tramandai
+![Função de Autocorrelação (ACF) - Tramandai](/content/acf_Tramandai.png)
+
+Função de Autocorrelação Parcial (PACF) - Tramandai
+![Função de Autocorrelação Parcial (PACF) - Tramandai](/content/pacf_Tramandai.png)
+
+Melhor modelo para Tramandai - AIC: 4204.495064180385, Ordem: (2, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Tramandai
+![Resíduos do Modelo - Tramandai](/content/residuos_Tramandai.png)
+
+Teste de Normalidade dos Resíduos - Tramandai:
+Estatística de teste: 0.13050240278244019
+Valor p: 3.281043964612496e-34
+
+Função de Autocorrelação dos Resíduos - Tramandai
+![Função de Autocorrelação dos Resíduos - Tramandai](/content/acf_residuos_Tramandai.png)
+
+Previsões de Curto Prazo - Tramandai
+![Previsões de Curto Prazo - Tramandai](/content/previsao_Tramandai.png)
+
+
+Analisando a série temporal: Pardo
+
+Decomposição da Série Temporal: Pardo
+![Decomposição da Série Temporal: Pardo](/content/decomposicao_Pardo.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -2479269843790722.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.571663989896668
+Valor p: 2.8306647311661913e-11
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Pardo
+![Função de Autocorrelação (ACF) - Pardo](/content/acf_Pardo.png)
+
+Função de Autocorrelação Parcial (PACF) - Pardo
+![Função de Autocorrelação Parcial (PACF) - Pardo](/content/pacf_Pardo.png)
+
+Melhor modelo para Pardo - AIC: 3776.0735254969986, Ordem: (2, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Pardo
+![Resíduos do Modelo - Pardo](/content/residuos_Pardo.png)
+
+Teste de Normalidade dos Resíduos - Pardo:
+Estatística de teste: 0.45574766397476196
+Valor p: 1.2033466681955296e-28
+
+Função de Autocorrelação dos Resíduos - Pardo
+![Função de Autocorrelação dos Resíduos - Pardo](/content/acf_residuos_Pardo.png)
+
+Previsões de Curto Prazo - Pardo
+![Previsões de Curto Prazo - Pardo](/content/previsao_Pardo.png)
+
+
+Analisando a série temporal: Sinos
+
+Decomposição da Série Temporal: Sinos
+![Decomposição da Série Temporal: Sinos](/content/decomposicao_Sinos.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -3353957000793424.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.45453261164607, '5%': -2.8721859575020017, '10%': -2.572442854861866}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -6.855367718819941
+Valor p: 1.6537065232613358e-09
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Sinos
+![Função de Autocorrelação (ACF) - Sinos](/content/acf_Sinos.png)
+
+Função de Autocorrelação Parcial (PACF) - Sinos
+![Função de Autocorrelação Parcial (PACF) - Sinos](/content/pacf_Sinos.png)
+
+Melhor modelo para Sinos - AIC: 3171.4918014134596, Ordem: (2, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Sinos
+![Resíduos do Modelo - Sinos](/content/residuos_Sinos.png)
+
+Teste de Normalidade dos Resíduos - Sinos:
+Estatística de teste: 0.6197056770324707
+Valor p: 9.715110968103298e-25
+
+Função de Autocorrelação dos Resíduos - Sinos
+![Função de Autocorrelação dos Resíduos - Sinos](/content/acf_residuos_Sinos.png)
+
+Previsões de Curto Prazo - Sinos
+![Previsões de Curto Prazo - Sinos](/content/previsao_Sinos.png)
+
+
+Analisando a série temporal: Ibicui
+
+Decomposição da Série Temporal: Ibicui
+![Decomposição da Série Temporal: Ibicui](/content/decomposicao_Ibicui.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -3382202992028594.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.686357856640033
+Valor p: 1.4580884055002046e-11
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Ibicui
+![Função de Autocorrelação (ACF) - Ibicui](/content/acf_Ibicui.png)
+
+Função de Autocorrelação Parcial (PACF) - Ibicui
+![Função de Autocorrelação Parcial (PACF) - Ibicui](/content/pacf_Ibicui.png)
+
+Melhor modelo para Ibicui - AIC: 4930.8589450375575, Ordem: (2, 1, 1), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Ibicui
+![Resíduos do Modelo - Ibicui](/content/residuos_Ibicui.png)
+
+Teste de Normalidade dos Resíduos - Ibicui:
+Estatística de teste: 0.2788892388343811
+Valor p: 6.320406841708907e-32
+
+Função de Autocorrelação dos Resíduos - Ibicui
+![Função de Autocorrelação dos Resíduos - Ibicui](/content/acf_residuos_Ibicui.png)
+
+Previsões de Curto Prazo - Ibicui
+![Previsões de Curto Prazo - Ibicui](/content/previsao_Ibicui.png)
+
+
+Analisando a série temporal: Gravatai
+
+Decomposição da Série Temporal: Gravatai
+![Decomposição da Série Temporal: Gravatai](/content/decomposicao_Gravatai.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -2726325688427671.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.454355055831705, '5%': -2.8721080938842976, '10%': -2.572401325619835}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.074658734848176
+Valor p: 1.516839924888722e-12
+Valores críticos: {'1%': -3.4557539868570775, '5%': -2.8727214497041422, '10%': -2.572728476331361}
+
+Função de Autocorrelação (ACF) - Gravatai
+![Função de Autocorrelação (ACF) - Gravatai](/content/acf_Gravatai.png)
+
+Função de Autocorrelação Parcial (PACF) - Gravatai
+![Função de Autocorrelação Parcial (PACF) - Gravatai](/content/pacf_Gravatai.png)
+
+Melhor modelo para Gravatai - AIC: 3781.874437072235, Ordem: (1, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Gravatai
+![Resíduos do Modelo - Gravatai](/content/residuos_Gravatai.png)
+
+Teste de Normalidade dos Resíduos - Gravatai:
+Estatística de teste: 0.4617162346839905
+Valor p: 1.6036557812200345e-28
+
+Função de Autocorrelação dos Resíduos - Gravatai
+![Função de Autocorrelação dos Resíduos - Gravatai](/content/acf_residuos_Gravatai.png)
+
+Previsões de Curto Prazo - Gravatai
+![Previsões de Curto Prazo - Gravatai](/content/previsao_Gravatai.png)
+
+
+Analisando a série temporal: Vacacai
+
+Decomposição da Série Temporal: Vacacai
+![Decomposição da Série Temporal: Vacacai](/content/decomposicao_Vacacai.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -5971697732130516.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4547128138328875, '5%': -2.8722649771800155, '10%': -2.5724850011573914}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.438082451320687
+Valor p: 1.7939234346615666e-13
+Valores críticos: {'1%': -3.4552699038400827, '5%': -2.8725092359464526, '10%': -2.5726152830188678}
+
+Função de Autocorrelação (ACF) - Vacacai
+![Função de Autocorrelação (ACF) - Vacacai](/content/acf_Vacacai.png)
+
+Função de Autocorrelação Parcial (PACF) - Vacacai
+![Função de Autocorrelação Parcial (PACF) - Vacacai](/content/pacf_Vacacai.png)
+
+Melhor modelo para Vacacai - AIC: 4464.886795428632, Ordem: (2, 1, 2), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Vacacai
+![Resíduos do Modelo - Vacacai](/content/residuos_Vacacai.png)
+
+Teste de Normalidade dos Resíduos - Vacacai:
+Estatística de teste: 0.4615864157676697
+Valor p: 1.5936156676787008e-28
+
+Função de Autocorrelação dos Resíduos - Vacacai
+![Função de Autocorrelação dos Resíduos - Vacacai](/content/acf_residuos_Vacacai.png)
+
+Previsões de Curto Prazo - Vacacai
+![Previsões de Curto Prazo - Vacacai](/content/previsao_Vacacai.png)
+
+
+Analisando a série temporal: Guaiba
+
+Decomposição da Série Temporal: Guaiba
+![Decomposição da Série Temporal: Guaiba](/content/decomposicao_Guaiba.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -3497561033145494.5
+Valor p: 0.0
+Valores críticos: {'1%': -3.4547128138328875, '5%': -2.8722649771800155, '10%': -2.5724850011573914}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.407910259000263
+Valor p: 7.262287504602802e-11
+Valores críticos: {'1%': -3.4557539868570775, '5%': -2.8727214497041422, '10%': -2.572728476331361}
+
+Função de Autocorrelação (ACF) - Guaiba
+![Função de Autocorrelação (ACF) - Guaiba](/content/acf_Guaiba.png)
+
+Função de Autocorrelação Parcial (PACF) - Guaiba
+![Função de Autocorrelação Parcial (PACF) - Guaiba](/content/pacf_Guaiba.png)
+
+Melhor modelo para Guaiba - AIC: 3611.646293288207, Ordem: (0, 1, 2), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Guaiba
+![Resíduos do Modelo - Guaiba](/content/residuos_Guaiba.png)
+
+Teste de Normalidade dos Resíduos - Guaiba:
+Estatística de teste: 0.2926257848739624
+Valor p: 1.0736879589323164e-31
+
+Função de Autocorrelação dos Resíduos - Guaiba
+![Função de Autocorrelação dos Resíduos - Guaiba](/content/acf_residuos_Guaiba.png)
+
+Previsões de Curto Prazo - Guaiba
+![Previsões de Curto Prazo - Guaiba](/content/previsao_Guaiba.png)
+
+
+Analisando a série temporal: Baixo Jacui 
+
+Decomposição da Série Temporal: Baixo Jacui 
+![Decomposição da Série Temporal: Baixo Jacui ](/content/decomposicao_Baixo Jacui .png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -722115727105150.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4546223782586534, '5%': -2.8722253212300277, '10%': -2.5724638500216264}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.905552320681892
+Valor p: 1.1404531462106234e-14
+Valores críticos: {'1%': -3.455175292841607, '5%': -2.8724677563219485, '10%': -2.57259315846006}
+
+Função de Autocorrelação (ACF) - Baixo Jacui 
+![Função de Autocorrelação (ACF) - Baixo Jacui ](/content/acf_Baixo Jacui .png)
+
+Função de Autocorrelação Parcial (PACF) - Baixo Jacui 
+![Função de Autocorrelação Parcial (PACF) - Baixo Jacui ](/content/pacf_Baixo Jacui .png)
+
+Melhor modelo para Baixo Jacui  - AIC: 4314.567043187818, Ordem: (1, 1, 1), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Baixo Jacui 
+![Resíduos do Modelo - Baixo Jacui ](/content/residuos_Baixo Jacui .png)
+
+Teste de Normalidade dos Resíduos - Baixo Jacui :
+Estatística de teste: 0.3115682601928711
+Valor p: 2.2603752494136987e-31
+
+Função de Autocorrelação dos Resíduos - Baixo Jacui 
+![Função de Autocorrelação dos Resíduos - Baixo Jacui ](/content/acf_residuos_Baixo Jacui .png)
+
+Previsões de Curto Prazo - Baixo Jacui 
+![Previsões de Curto Prazo - Baixo Jacui ](/content/previsao_Baixo Jacui .png)
+
+
+Analisando a série temporal: Quarai
+
+Decomposição da Série Temporal: Quarai
+![Decomposição da Série Temporal: Quarai](/content/decomposicao_Quarai.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -2652739817253227.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4546223782586534, '5%': -2.8722253212300277, '10%': -2.5724638500216264}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.779201635530783
+Valor p: 8.506539710440539e-12
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Quarai
+![Função de Autocorrelação (ACF) - Quarai](/content/acf_Quarai.png)
+
+Função de Autocorrelação Parcial (PACF) - Quarai
+![Função de Autocorrelação Parcial (PACF) - Quarai](/content/pacf_Quarai.png)
+
+Melhor modelo para Quarai - AIC: 2640.533145407878, Ordem: (2, 0, 2), Ordem Sazonal: (1, 0, 0, 12)
+
+Resíduos do Modelo - Quarai
+![Resíduos do Modelo - Quarai](/content/residuos_Quarai.png)
+
+Teste de Normalidade dos Resíduos - Quarai:
+Estatística de teste: 0.7453873157501221
+Valor p: 1.0011667452936198e-20
+
+Função de Autocorrelação dos Resíduos - Quarai
+![Função de Autocorrelação dos Resíduos - Quarai](/content/acf_residuos_Quarai.png)
+
+Previsões de Curto Prazo - Quarai
+![Previsões de Curto Prazo - Quarai](/content/previsao_Quarai.png)
+
+
+Analisando a série temporal: Santa Maria
+
+Decomposição da Série Temporal: Santa Maria
+![Decomposição da Série Temporal: Santa Maria](/content/decomposicao_Santa Maria.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -5399285243152833.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.4544435065994437, '5%': -2.8721468827772774, '10%': -2.572422013959188}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.350911158831478
+Valor p: 2.9965191731765396e-13
+Valores críticos: {'1%': -3.455365238788105, '5%': -2.8725510317187024, '10%': -2.5726375763314966}
+
+Função de Autocorrelação (ACF) - Santa Maria
+![Função de Autocorrelação (ACF) - Santa Maria](/content/acf_Santa Maria.png)
+
+Função de Autocorrelação Parcial (PACF) - Santa Maria
+![Função de Autocorrelação Parcial (PACF) - Santa Maria](/content/pacf_Santa Maria.png)
+
+Melhor modelo para Santa Maria - AIC: 4881.348275659825, Ordem: (1, 1, 0), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Santa Maria
+![Resíduos do Modelo - Santa Maria](/content/residuos_Santa Maria.png)
+
+Teste de Normalidade dos Resíduos - Santa Maria:
+Estatística de teste: 0.5872299671173096
+Valor p: 1.3215041025093144e-25
+
+Função de Autocorrelação dos Resíduos - Santa Maria
+![Função de Autocorrelação dos Resíduos - Santa Maria](/content/acf_residuos_Santa Maria.png)
+
+Previsões de Curto Prazo - Santa Maria
+![Previsões de Curto Prazo - Santa Maria](/content/previsao_Santa Maria.png)
+
+
+Analisando a série temporal: Patos
+
+Decomposição da Série Temporal: Patos
+![Decomposição da Série Temporal: Patos](/content/decomposicao_Patos.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1826575473933282.2
+Valor p: 0.0
+Valores críticos: {'1%': -3.4544435065994437, '5%': -2.8721468827772774, '10%': -2.572422013959188}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -8.29877954166148
+Valor p: 4.071544824313316e-13
+Valores críticos: {'1%': -3.4556556713934934, '5%': -2.872678352489859, '10%': -2.57270548832225}
+
+Função de Autocorrelação (ACF) - Patos
+![Função de Autocorrelação (ACF) - Patos](/content/acf_Patos.png)
+
+Função de Autocorrelação Parcial (PACF) - Patos
+![Função de Autocorrelação Parcial (PACF) - Patos](/content/pacf_Patos.png)
+
+Melhor modelo para Patos - AIC: 4221.9003504156035, Ordem: (1, 1, 1), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Patos
+![Resíduos do Modelo - Patos](/content/residuos_Patos.png)
+
+Teste de Normalidade dos Resíduos - Patos:
+Estatística de teste: 0.16344153881072998
+Valor p: 9.87031290481285e-34
+
+Função de Autocorrelação dos Resíduos - Patos
+![Função de Autocorrelação dos Resíduos - Patos](/content/acf_residuos_Patos.png)
+
+Previsões de Curto Prazo - Patos
+![Previsões de Curto Prazo - Patos](/content/previsao_Patos.png)
+
+
+Analisando a série temporal: Camaqua
+
+Decomposição da Série Temporal: Camaqua
+![Decomposição da Série Temporal: Camaqua](/content/decomposicao_Camaqua.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1757331679116776.8
+Valor p: 0.0
+Valores críticos: {'1%': -3.4546223782586534, '5%': -2.8722253212300277, '10%': -2.5724638500216264}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -5.475701269459486
+Valor p: 2.3444150952298417e-06
+Valores críticos: {'1%': -3.455952927706342, '5%': -2.8728086526320302, '10%': -2.572774990685656}
+
+Função de Autocorrelação (ACF) - Camaqua
+![Função de Autocorrelação (ACF) - Camaqua](/content/acf_Camaqua.png)
+
+Função de Autocorrelação Parcial (PACF) - Camaqua
+![Função de Autocorrelação Parcial (PACF) - Camaqua](/content/pacf_Camaqua.png)
+
+Melhor modelo para Camaqua - AIC: 4285.465470843755, Ordem: (2, 1, 2), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Camaqua
+![Resíduos do Modelo - Camaqua](/content/residuos_Camaqua.png)
+
+Teste de Normalidade dos Resíduos - Camaqua:
+Estatística de teste: 0.32215869426727295
+Valor p: 3.4518396313873876e-31
+
+Função de Autocorrelação dos Resíduos - Camaqua
+![Função de Autocorrelação dos Resíduos - Camaqua](/content/acf_residuos_Camaqua.png)
+
+Previsões de Curto Prazo - Camaqua
+![Previsões de Curto Prazo - Camaqua](/content/previsao_Camaqua.png)
+
+
+Analisando a série temporal: Negro
+
+Decomposição da Série Temporal: Negro
+![Decomposição da Série Temporal: Negro](/content/decomposicao_Negro.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -3012570155806403.0
+Valor p: 0.0
+Valores críticos: {'1%': -3.45453261164607, '5%': -2.8721859575020017, '10%': -2.572442854861866}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.677088059139149
+Valor p: 1.538550099994133e-11
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Negro
+![Função de Autocorrelação (ACF) - Negro](/content/acf_Negro.png)
+
+Função de Autocorrelação Parcial (PACF) - Negro
+![Função de Autocorrelação Parcial (PACF) - Negro](/content/pacf_Negro.png)
+
+Melhor modelo para Negro - AIC: 4071.206502133886, Ordem: (2, 1, 1), Ordem Sazonal: (0, 1, 1, 12)
+
+Resíduos do Modelo - Negro
+![Resíduos do Modelo - Negro](/content/residuos_Negro.png)
+
+Teste de Normalidade dos Resíduos - Negro:
+Estatística de teste: 0.6286822557449341
+Valor p: 1.725921164401369e-24
+
+Função de Autocorrelação dos Resíduos - Negro
+![Função de Autocorrelação dos Resíduos - Negro](/content/acf_residuos_Negro.png)
+
+Previsões de Curto Prazo - Negro
+![Previsões de Curto Prazo - Negro](/content/previsao_Negro.png)
+
+
+Analisando a série temporal: Mirim Sao Goncalo
+
+Decomposição da Série Temporal: Mirim Sao Goncalo
+![Decomposição da Série Temporal: Mirim Sao Goncalo](/content/decomposicao_Mirim Sao Goncalo.png)
+
+Resultado do teste ADF para a parte sazonal:
+Estatística ADF: -1428836393377789.2
+Valor p: 0.0
+Valores críticos: {'1%': -3.4548039258751206, '5%': -2.872304928618605, '10%': -2.5725063100137175}
+
+Resultado do teste ADF para a parte não sazonal:
+Estatística ADF: -7.663301917823855
+Valor p: 1.6664470777651463e-11
+Valores críticos: {'1%': -3.455558114028747, '5%': -2.872635586277424, '10%': -2.572682677000175}
+
+Função de Autocorrelação (ACF) - Mirim Sao Goncalo
+![Função de Autocorrelação (ACF) - Mirim Sao Goncalo](/content/acf_Mirim Sao Goncalo.png)
+
+Função de Autocorrelação Parcial (PACF) - Mirim Sao Goncalo
+![Função de Autocorrelação Parcial (PACF) - Mirim Sao Goncalo](/content/pacf_Mirim Sao Goncalo.png)
+
+Melhor modelo para Mirim Sao Goncalo - AIC: 4824.94245944441, Ordem: (1, 1, 0), Ordem Sazonal: (1, 1, 1, 12)
+
+Resíduos do Modelo - Mirim Sao Goncalo
+![Resíduos do Modelo - Mirim Sao Goncalo](/content/residuos_Mirim Sao Goncalo.png)
+
+Teste de Normalidade dos Resíduos - Mirim Sao Goncalo:
+Estatística de teste: 0.14113163948059082
+Valor p: 4.663761439095444e-34
+
+Função de Autocorrelação dos Resíduos - Mirim Sao Goncalo
+![Função de Autocorrelação dos Resíduos - Mirim Sao Goncalo](/content/acf_residuos_Mirim Sao Goncalo.png)
+
+Previsões de Curto Prazo - Mirim Sao Goncalo
+![Previsões de Curto Prazo - Mirim Sao Goncalo](/content/previsao_Mirim Sao Goncalo.png)
+
